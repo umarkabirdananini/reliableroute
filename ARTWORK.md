@@ -1,0 +1,12 @@
+# Website artwork
+
+Two original illustrative images were generated with the built-in ImageGen tool for this website, then optimized to WebP. They are not photographs of the company’s fleet or a verified specific port.
+
+## assets/images/port-hero.webp
+
+Use case: photorealistic-natural. Asset type: cinematic hero photograph for a premium Nigerian freight forwarding and customs logistics website. Create a breathtaking ultra-wide editorial aerial photograph of a large container vessel approaching an expansive modern coastal cargo port at early morning, viewed diagonally from high above. Ship and visually rich container stacks and soaring gantry cranes occupy the right half of the composition; the left half is mostly calm deep emerald water with subtle ripples and atmospheric haze, giving clean negative space for white website typography to be overlaid later. Beautiful warm sunrise glints along container edges, ivory cranes, orderly tiny multicolored containers, dramatic enormous scale, muted earth tones, dark emerald and petrol water. Photorealistic industrial architectural photography, impeccable high-end shipping brand campaign, shot on a large-format camera, crisp fine detail, sophisticated restrained cinematic color grade. Frame wide 16:9 landscape at high resolution. No logos, no branding, no words, no typography, no watermark, no graphic overlays. This is generic illustrative shipping imagery and must not depict a recognizable specific port.
+
+## assets/images/port-operations.webp
+
+Use case: photorealistic-natural. Asset type: supporting editorial image for an elegant premium logistics company website. A spectacular low perspective photograph looking along a working container port quay, with an unbranded articulated truck carrying a deep green intermodal container in the foreground right, vast rust-colored and faded ivory container stacks on the left, tall gantry cranes receding into the distance and one cargo vessel partly visible behind. Sophisticated industrial architecture editorial photography, crisp physical detail and beautiful muted colors, warm afternoon sun, pale ivory sky, dark pine green and rust terracotta palette. Composition landscape 3:2, strong clean leading lines, authentic and calm. No people recognizable, no text or numbers, no branding, no logos, no watermark. Generic illustrative shipping terminal without a recognizable real port. This needs to feel like luxury B2B brand photography, absolutely photographic, no CGI aesthetics.
+
